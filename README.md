@@ -16,7 +16,7 @@ Result1:
 
 Result2:
 
-![image-20240417104248358](.\README.assets\image-20240417104248358.png)
+![image-20240417104248358](https://github.com/hengliusky/ChipDiff/blob/main/README.assets/image-20240417104102327.png)
 
 
 
