@@ -12,11 +12,11 @@ Given a landscape photo and a Chinese ink style painting, get an ink-wash styliz
 
 Result1:
 
-![image-20240417104101499](D:\终端备份\github\LGSS-main\README.assets\image-20240417104101499.png)
+![image-20240417104101499](README.assets\image-20240417104101499.png)
 
 Result2:
 
-![image-20240417104248358](D:\终端备份\github\LGSS-main\README.assets\image-20240417104248358.png)
+![image-20240417104248358](README.assets\image-20240417104248358.png)
 
 
 
