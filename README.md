@@ -12,7 +12,7 @@ Given a landscape photo and a Chinese ink style painting, get an ink-wash styliz
 
 Result1:
 
-![image-20240417104101499]([.\README.assets\image-20240417104101499.png](https://github.com/hengliusky/ChipDiff/blob/main/README.assets/image-20240417104101499.png))
+![image-20240417104101499](https://github.com/hengliusky/ChipDiff/blob/main/README.assets/image-20240417104101499.png).
 
 Result2:
 
