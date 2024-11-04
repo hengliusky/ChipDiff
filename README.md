@@ -3,7 +3,7 @@
 **This repository is for the paper, “ChipDiff: Chinese Ink Painting Style Transfer Via Staged Loss Gradient-Guided Diffusion Model”**
 
 
-Given a landscape photo and a Chinese ink-wash style painting, ChipDiff can achieve almost perfect and balanced ink-wash style transfer result, with visual effects better than the current state-of-the-art methods.
+Given a landscape photo and a Chinese ink-wash style painting, ChipDiff can achieve an almost perfect and balanced ink-wash stylization result, with visual effect better than that of the current state-of-the-art methods.
 
 
 
