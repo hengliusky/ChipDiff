@@ -1,10 +1,9 @@
 # ChipDiff
 
-**This repository is for the paper, “Revisiting Chinese Ink Painting Style Transfer as Loss Gradient-Guided Staged Diffusion Sampling”**
+**This repository is for the paper, “ChipDiff: Chinese Ink Painting Style Transfer Via Staged Loss Gradient-Guided Diffusion Model”**
 
-Liu, H., Chen, C. . Revisiting Chinese Ink Painting Style Transfer as Loss Gradient-Guided Staged Diffusion Sampling
 
-Given a landscape photo and a Chinese ink style painting, get an ink-wash stylized picture.
+Given a landscape photo and a Chinese ink-wash style painting, ChipDiff can achieve almost perfect and balanced ink-wash style transfer result, with visual effects better than the current state-of-the-art methods.
 
 
 
@@ -51,9 +50,9 @@ python3 main.py -i input_example/test3.8/content/hengshan1.png  --output_path ou
 
 ### Citing
 
-If you use our work in your research, please cite us using the following BibTeX entry ~ Thank you .
+If you use our work in your research, please cite us using the following entry ~ Thank you .
 
-```
+Heng Liu, Zhiwei Song, Chuan Chen, Yang Wang. ChipDiff: Chinese Ink Painting Style Transfer Via Staged Loss Gradient-Guided Diffusion Model.
 
 ```
 
